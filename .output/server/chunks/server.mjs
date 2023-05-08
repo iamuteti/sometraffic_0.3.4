@@ -694,7 +694,7 @@ const _routes = [
     meta: __nuxt_page_meta$4 || {},
     alias: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.alias) || [],
     redirect: (__nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.redirect) || void 0,
-    component: () => import('./index-d9309599.mjs').then((m) => m.default || m)
+    component: () => import('./index-3a04b499.mjs').then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.name) ?? "user-groups",
@@ -1434,7 +1434,7 @@ const _wrapIf = (component, props, slots) => {
 };
 const layouts = {
   auth: () => import('./auth-fb77fd96.mjs').then((m) => m.default || m),
-  default: () => import('./default-cae3e505.mjs').then((m) => m.default || m),
+  default: () => import('./default-6e6e177d.mjs').then((m) => m.default || m),
   front: () => import('./front-3be00612.mjs').then((m) => m.default || m),
   redirect: () => import('./redirect-153b7ce6.mjs').then((m) => m.default || m)
 };

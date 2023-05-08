@@ -15,7 +15,7 @@ const styles = {
   "components/InformationItems.vue": () => import('./InformationItems-styles.f09370e9.mjs').then(interopDefault),
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": () => import('./error-404-styles.88dd483b.mjs').then(interopDefault),
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": () => import('./error-500-styles.f7652148.mjs').then(interopDefault),
-  "layouts/default.vue": () => import('./default-styles.cfab6b67.mjs').then(interopDefault)
+  "layouts/default.vue": () => import('./default-styles.048d1543.mjs').then(interopDefault)
 };
 
 export { styles as default };
